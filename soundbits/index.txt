@@ -1,0 +1,5 @@
+//this file contains a list of the bits
+
+// dictonary, plbit/ preloaded bit, @/ location of the .flac
+
+!plbit/womp@soundbits/womp.flac
